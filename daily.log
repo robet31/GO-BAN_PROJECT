@@ -1,1 +1,1 @@
-fix: resolve conflict between dependencies - 2026-09-22
+fix: sanitize input to prevent injection - 2026-09-22
